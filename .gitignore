@@ -1,0 +1,11 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/.CondaPkg/
+LocalPreferences.toml
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
